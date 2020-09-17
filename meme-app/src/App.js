@@ -1,6 +1,6 @@
 import React from 'react'
-import Header from './Header'
-import MemeGenerator from './MemeGenerator'
+import Header from './component/Header'
+import MemeGenerator from './component/MemeGenerator'
 
 
 
