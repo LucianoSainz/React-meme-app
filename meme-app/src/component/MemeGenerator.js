@@ -63,9 +63,7 @@ class MemeGenerator extends React.Component{
                    <h2 className="top">{this.state.topText}</h2>
                    <h2 className="bottom">{this.state.bottomText}</h2>
                </div>
-               <a className="tweet"
-               href={'https://twitter.com/intent/tweet?'} target="_blank">Tweet</a>
-            </div>   
+            </div>
         )
     }
 
