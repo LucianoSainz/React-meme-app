@@ -1,0 +1,22 @@
+header {
+    height: 100px;
+    display:flex;
+    align-items: center;
+    background: #6441A5;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  header > img {
+    height: 80%;
+    margin-left: 10%;
+  }
+  
+  header > p {
+    font-family: monospace;
+    color:whitesmoke;
+    font-size: 50px;
+    margin-left: 60px;
+  }
+
+  
